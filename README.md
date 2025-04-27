@@ -32,11 +32,13 @@ git clone https://github.com/yourusername/ExcelSlide-pptx-slide-generator.git
 cd ExcelSlide-pptx-slide-generator
 
 Replace filenames if you decide to use different sample files.
+```
 
 ### 2. Install Dependencies
 
 ```bash
 pip install pandas python-pptx
+```
 
 ## 🧠 Example Use Cases
 
