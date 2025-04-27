@@ -56,6 +56,6 @@ Pull requests and feedback are welcome.
 Built by [André Bernardo](https://www.linkedin.com/in/andrefsbernardo/) — always excited to connect with fellow builders!
 
 ## ✅ Notes
-- Replace yourusername with your GitHub username in the git clone link when you create the repo.
+- Replace **yourusername** with your GitHub username in the git clone link when you create the repo.
 - Replace filenames if you decide to use different sample files.
 
