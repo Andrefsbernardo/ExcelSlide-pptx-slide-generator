@@ -47,3 +47,15 @@ pip install pandas python-pptx
 - Project status updates
 - Event presentations
 - Any batch PowerPoint generation from tabular data
+
+## 🙌 Contributions
+Feel free to fork this project and adapt it to your needs!
+Pull requests and feedback are welcome.
+
+## 📬 Contact
+Built by [André Bernardo](https://www.linkedin.com/in/andrefsbernardo/) — always excited to connect with fellow builders!
+
+## ✅ Notes
+- Replace yourusername with your GitHub username in the git clone link when you create the repo.
+- Replace filenames if you decide to use different sample files.
+
