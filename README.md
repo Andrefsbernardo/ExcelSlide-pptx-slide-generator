@@ -30,10 +30,9 @@ Originally built to streamline **donor insights reporting**, this solution is **
 ```bash
 git clone https://github.com/yourusername/ExcelSlide-pptx-slide-generator.git
 cd ExcelSlide-pptx-slide-generator
-
+```
 - Replace filenames if you decide to use different sample files.
 - Replace **yourusername** with your GitHub username in the git clone link when you create the repo.
-```
 
 ### 2. Install Dependencies
 
